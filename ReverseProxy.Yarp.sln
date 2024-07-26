@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseProxy.Yarp.Gateway", "ReverseProxy.Yarp.Gateway\ReverseProxy.Yarp.Gateway.csproj", "{01BCB32D-89B2-4EF1-A5DD-AD6C50C4076E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseProxy.Yarp.Student.API", "ReverseProxy.Yarp.Student.API\ReverseProxy.Yarp.Student.API.csproj", "{4635C098-EBF6-4E66-9026-0A784C3F8DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseProxy.Yarp.Course.API", "ReverseProxy.Yarp.Course.API\ReverseProxy.Yarp.Course.API.csproj", "{A599BD6D-3B81-46E9-BDC0-E4EFFED68F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BCB32D-89B2-4EF1-A5DD-AD6C50C4076E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BCB32D-89B2-4EF1-A5DD-AD6C50C4076E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BCB32D-89B2-4EF1-A5DD-AD6C50C4076E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BCB32D-89B2-4EF1-A5DD-AD6C50C4076E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4635C098-EBF6-4E66-9026-0A784C3F8DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4635C098-EBF6-4E66-9026-0A784C3F8DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4635C098-EBF6-4E66-9026-0A784C3F8DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4635C098-EBF6-4E66-9026-0A784C3F8DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A599BD6D-3B81-46E9-BDC0-E4EFFED68F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A599BD6D-3B81-46E9-BDC0-E4EFFED68F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A599BD6D-3B81-46E9-BDC0-E4EFFED68F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A599BD6D-3B81-46E9-BDC0-E4EFFED68F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

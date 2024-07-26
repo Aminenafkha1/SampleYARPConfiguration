@@ -1,0 +1,6 @@
+@ReverseProxy.Yarp.Student.API_HostAddress = http://localhost:5047
+
+GET {{ReverseProxy.Yarp.Student.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
